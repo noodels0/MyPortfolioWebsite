@@ -1,0 +1,15 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+        
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+s
